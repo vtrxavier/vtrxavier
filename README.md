@@ -3,7 +3,7 @@ Desenvolvedor Python
 Back-End | Python | Cloud (AWS) | MS SQL
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at vprxavier@hotmail.com
+* ✉️  You can contact me at vtrxavier@hotmail.com
 
 <a href="https://www.github.com/vtrxavier" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vtrxavier?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -104,8 +104,8 @@ src="https://img.shields.io/github/followers/vtrxavier?logo=github&style=for-the
     <a href="https://www.linkedin.com/in/vitor-xavier-/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-    <a href = "mailto:vprxavier@hotmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+    <a href = "mailto:vtrxavier@hotmail.com">
+      <img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=red" target="_blank">
     </a>
   </div>
   </p>
